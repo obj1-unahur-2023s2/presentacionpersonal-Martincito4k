@@ -1,10 +1,8 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programación con objetos I
+# Martin Bercaitz
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Hola, me llamo **Martin** y curso la Tecnicatura en Programación, estoy arrancando el segundo año por lo que este es mi tercer cuatrimestre en la universidad.
 
 ```wollok
 object programacionConObjetos { 
